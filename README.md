@@ -2,4 +2,4 @@
 
 https://pokemon-card-generator-nu.vercel.app/
 
-![poke](https://github.com/huseyinaydinn/Pokemon-Card-Generator/assets/100160834/4473752b-389a-47d9-8a84-df5110a38d90)
+![poke2](https://github.com/huseyinaydinn/Pokemon-Card-Generator/assets/100160834/bd9cf433-0964-4d35-9309-b16397f22826)
